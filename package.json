@@ -1,6 +1,6 @@
 {
   "name": "args-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pass arguments",
   "main": "index.js",
   "scripts": {

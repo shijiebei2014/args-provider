@@ -57,7 +57,7 @@ Context.set = function(ctx, key, value) {
  * @param  {Object} params
  * @return {Void}
  */
-Context.setMuti = function(ctx, params) {
+Context.setMulti = function(ctx, params) {
   if (_isContext(ctx)) {
     if (Object.prototype.toString.call(params) === "[object Object]") {
       for (var key in params) {

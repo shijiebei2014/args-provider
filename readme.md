@@ -11,7 +11,7 @@ $ npm install --save args-provider
 const Context = require('args-provider');
 
 function a() {
-  Context.setMuti(this, {'name': 'hello'})
+  Context.setMulti(this, {'name': 'hello'})
   Context.apply(this, b, 1, 2, 3)
   // b(1,2,3)
 }
