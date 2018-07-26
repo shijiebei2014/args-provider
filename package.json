@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijiebei2014/args-provider.git"
+  },
   "keywords": ["provider", "arguments", "context", "pass"],
   "author": "xqq2018",
   "license": "ISC"
